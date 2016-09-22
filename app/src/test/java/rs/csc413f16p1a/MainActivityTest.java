@@ -6,6 +6,7 @@ import static org.junit.Assert.*;
 /**
  * Created by marc on 9/7/16.
  */
+
 public class MainActivityTest {
 
     @Test
